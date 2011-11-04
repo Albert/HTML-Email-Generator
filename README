@@ -1,0 +1,8 @@
+HTML Email generation for all those silly HTML emails you have to markup.
+
+Places for improvement:
+
+* markup for spacer images
+* some sort of tool to help with the math associated with columns
+* optimize code so it doesn't regenerate ALL tags when input is changed
+* Checkboxes for when you want to enable / disable stuff (for example, ability to not specify size)
